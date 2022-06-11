@@ -22,7 +22,7 @@ The `src/api` directory is mapped to `/api/*`. Files in this directory are treat
 
 We are using React Bootstrap.
 
-Please access: [Learn React Bootstrap](https://react-bootstrap.github.io/components/alerts/)
+Please visit: [Learn React Bootstrap](https://react-bootstrap.github.io/components/alerts/)
 
 ## Learn More
 
