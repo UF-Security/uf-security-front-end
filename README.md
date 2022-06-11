@@ -22,14 +22,7 @@ The `src/api` directory is mapped to `/api/*`. Files in this directory are treat
 
 We are using React Bootstrap.
 
-Please access: [Lear React Bootstrap](https://react-bootstrap.github.io/components/alerts/)
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Please access: [Learn React Bootstrap](https://react-bootstrap.github.io/components/alerts/)
 
 ## Learn More
 
