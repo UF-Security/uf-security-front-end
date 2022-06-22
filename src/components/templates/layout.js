@@ -1,8 +1,7 @@
-import Navbar from './navbar'
-import Footer from './footer'
+import Navbar from '../organisms/navbar'
+import Footer from '../organisms/footer'
 import Head from 'next/head'
-import styles from '../../styles/Home.module.css'
-import { Container } from 'react-bootstrap'
+import styles from '../../../styles/Home.module.css'
 
 export default function Layout({ children }) {
   return (
